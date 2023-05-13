@@ -1,0 +1,5 @@
+build/**
+dist/**
+peexports.egg-info/**
+*.pickle
+*.json
